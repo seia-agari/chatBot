@@ -33,7 +33,7 @@ const QA = [
     q: "4つのSCとは？",
     kws: ["4つのSC","SC","指導方針","カリキュラム","習慣化","コーチング","コミュニティ"],
     a: `【回答】<br>
-<img src="https://smilestudy-kasukabe.com/wp-content/uploads/2025/08/IMG_7490.jpeg" alt="SC" style="max-width:400px; border-radius:8px;"><br>
+<img src="https://smilestudy-kasukabe.com/wp-content/uploads/2025/08/IMG_7490.jpeg" alt="SC" style="max-width:250px; border-radius:8px;"><br>
 次の4つを総称して「SC」と呼びます。
 ・Smile Curriculum：学びの設計とPDCAの運用
 ・Self Control：学習の習慣化と自己管理
@@ -44,7 +44,7 @@ const QA = [
     q: "SC実践のポイント",
     kws: ["SCのポイント","実践","目的","成果","宿題","意義","生活面","共有","モチベーション","SC"],
     a: `【回答】<br>
-<img src="https://smilestudy-kasukabe.com/wp-content/uploads/2025/08/image2.jpg" alt="SC" style="max-width:400px; border-radius:8px;"><br>
+<img src="https://smilestudy-kasukabe.com/wp-content/uploads/2025/08/image2.jpg" alt="SC" style="max-width:250px; border-radius:8px;"><br>
 SCを効果的に実践するための要点は次の通りです。
 ・毎回の授業で「目的」と「成果」を明確化する
 ・宿題の意味を説明し、単なる作業から「やる意義」へ転換する
@@ -208,7 +208,7 @@ Comiruで担当生徒を選択し、「＋指導報告書作成」から授業�
     kws: ["面談準備","資料","内容","手順","準備","面談"],
     a: `【回答】
 面談は以下の5ステップで行います。<br>
-<img src="https://smilestudy-kasukabe.com/wp-content/uploads/2025/08/image.png" alt="面談" style="max-width:400px; border-radius:8px;">
+<img src="https://smilestudy-kasukabe.com/wp-content/uploads/2025/08/image.png" alt="面談" style="max-width:250px; border-radius:8px;">
 
 1. 面談日時のアポ取り・成績資料の入手
     - 授業報告書で日程提案 → 確定後カレンダー登録・塾長へLINE報告
@@ -273,7 +273,7 @@ Comiruで担当生徒を選択し、「＋指導報告書作成」から授業�
     q: "体験授業",
     kws: ["体験授業","流れ","構成"],
     a: `【回答】<br>
-<img src="https://smilestudy-kasukabe.com/wp-content/uploads/2025/08/image1.png" alt="体験授業" style="max-width:400px; border-radius:8px;"><br>
+<img src="https://smilestudy-kasukabe.com/wp-content/uploads/2025/08/image1.png" alt="体験授業" style="max-width:250px; border-radius:8px;"><br>
 体験授業はサンドイッチ形式で行います。
 
 1. 最初の面談（保護者・生徒）
@@ -482,7 +482,7 @@ Comiruで担当生徒を選択し、「＋指導報告書作成」から授業�
   kws: ["宿題量", "調整", "方法", "課題量", "宿題設定", "宿題管理", "課題調整","宿題"],
   a: `【回答】
 生徒の学習スピードや理解度、他教科の負担を考慮して調整します。大幅に変える場合は上利先生に相談してください。<br>
-<img src="https://smilestudy-kasukabe.com/wp-content/uploads/2020/08/AdobeStock_394944144-2-1024x1024.jpeg" alt="定期テスト" style="max-width:400px; border-radius:8px;">`
+<img src="https://smilestudy-kasukabe.com/wp-content/uploads/2020/08/AdobeStock_394944144-2-1024x1024.jpeg" alt="定期テスト" style="max-width:250px; border-radius:8px;">`
 },
 {
   q: "授業内容を急遽変更してもいいですか？",
@@ -495,7 +495,7 @@ Comiruで担当生徒を選択し、「＋指導報告書作成」から授業�
   kws: ["定期テスト直前", "授業", "優先事項", "試験前", "テスト前対策", "試験準備", "直前対策","定期テスト"],
   a: `【回答】
 テスト範囲の総復習と、苦手分野の重点対策を優先してください。過去の間違い問題のやり直しも効果的です。<br>
-<img src="https://smilestudy.co.jp/wp-content/uploads/2020/07/AdobeStock_307054697-786x556.jpeg" alt="定期テスト" style="max-width:400px; border-radius:8px;">`
+<img src="https://smilestudy.co.jp/wp-content/uploads/2020/07/AdobeStock_307054697-786x556.jpeg" alt="定期テスト" style="max-width:250px; border-radius:8px;">`
 },
   {
     q: "不安や疑問がある時の相談先",
@@ -513,7 +513,7 @@ Comiruで担当生徒を選択し、「＋指導報告書作成」から授業�
   q: "コピー機が動かなくなりました。どうすればいいでしょうか？",
   kws: ["コピー機", "動かない", "電源", "故障"],
   a: `【回答】 一度電源を切ってください。全面の蓋を開け、主電源スイッチを下に下ろし、もう一度上に上げてください。これで改善しない場合は、塾長または上利先生にご連絡ください。<br>
-<img src="https://support.dennoh.net/wp500/wp-content/uploads/AB_gazou1_2-1.jpg" alt="コピー機スイッチ" style="max-width:400px; border-radius:8px;">`
+<img src="https://support.dennoh.net/wp500/wp-content/uploads/AB_gazou1_2-1.jpg" alt="コピー機スイッチ" style="max-width:250px; border-radius:8px;">`
 },
 
 // 【指導関連】
@@ -571,7 +571,7 @@ Comiruで担当生徒を選択し、「＋指導報告書作成」から授業�
   q: "初めての授業なのですが、何に気をつけたらいいですか？",
   kws: ["初めての授業", "注意点", "講師" ,"初めて","初授業"],
   a: `【回答】 生徒の性格や学習状況を観察し、緊張を和らげる声かけを意識してください。最初は難しいことをやらせすぎず、成功体験を重視してください。<br>
-  <img src="https://smilestudy-kasukabe.com/wp-content/uploads/2021/11/LINE_ALBUM_%E4%BD%BF%E7%94%A8%E5%86%99%E7%9C%9F_211106.jpg" alt="生徒と講師" style="max-width:400px; border-radius:8px;">`
+  <img src="https://smilestudy-kasukabe.com/wp-content/uploads/2021/11/LINE_ALBUM_%E4%BD%BF%E7%94%A8%E5%86%99%E7%9C%9F_211106.jpg" alt="生徒と講師" style="max-width:250px; border-radius:8px;">`
 
 },
 
@@ -580,7 +580,7 @@ Comiruで担当生徒を選択し、「＋指導報告書作成」から授業�
   q: "講師間のつながりってありますか？",
   kws: ["講師", "つながり", "交流"],
   a: `【回答】 講師間で情報共有や連携は行っています。授業の引継ぎや生徒対応に関して相談できる体制があります。<br>
-<img src="https://smilestudy-kasukabe.com/wp-content/uploads/2021/06/S__26034197.jpg" alt="講師" style="max-width:400px; border-radius:8px;">`
+<img src="https://smilestudy-kasukabe.com/wp-content/uploads/2021/06/S__26034197.jpg" alt="講師" style="max-width:250px; border-radius:8px;">`
 },
 {
   q: "掛け持ちは可能ですか？",
